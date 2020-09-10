@@ -1,0 +1,10 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\bin\Debug\Chapter 2 Example.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\bin\Debug\Chapter 2 Example.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\bin\Debug\Chapter 2 Example.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\obj\Debug\Chapter 2 Example.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\obj\Debug\Chapter_2_Example.Form1.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\obj\Debug\Chapter_2_Example.Properties.Resources.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\obj\Debug\Chapter 2 Example.csproj.GenerateResource.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\obj\Debug\Chapter 2 Example.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\obj\Debug\Chapter 2 Example.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter 2 Example\Chapter 2 Example\obj\Debug\Chapter 2 Example.pdb
