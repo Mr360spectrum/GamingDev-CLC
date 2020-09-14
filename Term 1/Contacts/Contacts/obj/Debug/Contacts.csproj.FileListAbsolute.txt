@@ -10,3 +10,7 @@ C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\obj\D
 C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
 C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\bin\Debug\Database1.mdf
 C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\bin\Debug\Database1_log.ldf
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\bin\Debug\Contacts.application
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\obj\Debug\Contacts.exe.manifest
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Contacts\Contacts\obj\Debug\Contacts.application
