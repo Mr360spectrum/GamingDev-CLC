@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FavoriteClassKE\FavoriteClassKE\bin\Debug\FavoriteClassKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FavoriteClassKE\FavoriteClassKE\bin\Debug\FavoriteClassKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FavoriteClassKE\FavoriteClassKE\bin\Debug\FavoriteClassKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FavoriteClassKE\FavoriteClassKE\obj\Debug\FavoriteClassKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FavoriteClassKE\FavoriteClassKE\obj\Debug\FavoriteClassKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FavoriteClassKE\FavoriteClassKE\obj\Debug\FavoriteClassKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FavoriteClassKE\FavoriteClassKE\obj\Debug\FavoriteClassKE.pdb

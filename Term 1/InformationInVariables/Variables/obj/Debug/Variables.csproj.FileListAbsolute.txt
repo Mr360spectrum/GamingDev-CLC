@@ -1,0 +1,14 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Variables\Variables\obj\Debug\Variables.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\InformationInVariables\Variables\bin\Debug\Variables.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\InformationInVariables\Variables\bin\Debug\Variables.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\InformationInVariables\Variables\bin\Debug\Variables.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\InformationInVariables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\InformationInVariables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\InformationInVariables\Variables\obj\Debug\Variables.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\InformationInVariables\Variables\obj\Debug\Variables.pdb

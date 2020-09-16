@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\IdentifyYourself\IdentifyYourself\bin\Debug\IdentifyYourself.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\IdentifyYourself\IdentifyYourself\bin\Debug\IdentifyYourself.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\IdentifyYourself\IdentifyYourself\bin\Debug\IdentifyYourself.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\IdentifyYourself\IdentifyYourself\obj\Debug\IdentifyYourself.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\IdentifyYourself\IdentifyYourself\obj\Debug\IdentifyYourself.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\IdentifyYourself\IdentifyYourself\obj\Debug\IdentifyYourself.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\IdentifyYourself\IdentifyYourself\obj\Debug\IdentifyYourself.pdb

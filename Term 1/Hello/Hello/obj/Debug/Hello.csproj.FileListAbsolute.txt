@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Hello\Hello\obj\Debug\Hello.pdb
