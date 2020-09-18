@@ -1,0 +1,7 @@
+C:\Users\mr360\source\repos\SmallProgram\SmallProgram\bin\Debug\SmallProgram.exe.config
+C:\Users\mr360\source\repos\SmallProgram\SmallProgram\bin\Debug\SmallProgram.exe
+C:\Users\mr360\source\repos\SmallProgram\SmallProgram\bin\Debug\SmallProgram.pdb
+C:\Users\mr360\source\repos\SmallProgram\SmallProgram\obj\Debug\SmallProgram.csprojAssemblyReference.cache
+C:\Users\mr360\source\repos\SmallProgram\SmallProgram\obj\Debug\SmallProgram.csproj.CoreCompileInputs.cache
+C:\Users\mr360\source\repos\SmallProgram\SmallProgram\obj\Debug\SmallProgram.exe
+C:\Users\mr360\source\repos\SmallProgram\SmallProgram\obj\Debug\SmallProgram.pdb
