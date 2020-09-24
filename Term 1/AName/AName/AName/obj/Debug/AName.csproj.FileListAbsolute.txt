@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\AName\AName\AName\bin\Debug\AName.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\AName\AName\AName\bin\Debug\AName.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\AName\AName\AName\bin\Debug\AName.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\AName\AName\AName\obj\Debug\AName.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\AName\AName\AName\obj\Debug\AName.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\AName\AName\AName\obj\Debug\AName.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\AName\AName\AName\obj\Debug\AName.pdb
