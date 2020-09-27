@@ -1,0 +1,10 @@
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\bin\Debug\Windows GUI.exe.config
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\bin\Debug\Windows GUI.exe
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\bin\Debug\Windows GUI.pdb
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\obj\Debug\Windows GUI.csprojAssemblyReference.cache
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\obj\Debug\Windows_GUI.StartPage.resources
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\obj\Debug\Windows_GUI.Properties.Resources.resources
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\obj\Debug\Windows GUI.csproj.GenerateResource.cache
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\obj\Debug\Windows GUI.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\obj\Debug\Windows GUI.exe
+C:\Users\karter.ence\source\repos\Windows GUI\Windows GUI\obj\Debug\Windows GUI.pdb
