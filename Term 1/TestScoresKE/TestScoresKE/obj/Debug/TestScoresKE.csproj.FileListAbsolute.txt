@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TestScoresKE\TestScoresKE\bin\Debug\TestScoresKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TestScoresKE\TestScoresKE\bin\Debug\TestScoresKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TestScoresKE\TestScoresKE\bin\Debug\TestScoresKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TestScoresKE\TestScoresKE\obj\Debug\TestScoresKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TestScoresKE\TestScoresKE\obj\Debug\TestScoresKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TestScoresKE\TestScoresKE\obj\Debug\TestScoresKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TestScoresKE\TestScoresKE\obj\Debug\TestScoresKE.pdb

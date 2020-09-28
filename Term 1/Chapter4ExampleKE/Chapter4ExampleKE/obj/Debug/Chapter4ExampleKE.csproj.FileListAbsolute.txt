@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter4ExampleKE\Chapter4ExampleKE\bin\Debug\Chapter4ExampleKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter4ExampleKE\Chapter4ExampleKE\bin\Debug\Chapter4ExampleKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter4ExampleKE\Chapter4ExampleKE\bin\Debug\Chapter4ExampleKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter4ExampleKE\Chapter4ExampleKE\obj\Debug\Chapter4ExampleKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter4ExampleKE\Chapter4ExampleKE\obj\Debug\Chapter4ExampleKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter4ExampleKE\Chapter4ExampleKE\obj\Debug\Chapter4ExampleKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\Chapter4ExampleKE\Chapter4ExampleKE\obj\Debug\Chapter4ExampleKE.pdb
