@@ -8,3 +8,13 @@ C:\Users\karter.ence\Documents\Gaming Development\Term 1\EventFormKE\EventFormKE
 C:\Users\karter.ence\Documents\Gaming Development\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.csproj.CoreCompileInputs.cache
 C:\Users\karter.ence\Documents\Gaming Development\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.exe
 C:\Users\karter.ence\Documents\Gaming Development\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\bin\Debug\EventFormKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\bin\Debug\EventFormKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\bin\Debug\EventFormKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.Main.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\EventFormKE\EventFormKE\obj\Debug\EventFormKE.pdb

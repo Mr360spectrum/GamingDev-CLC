@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesFormKE", "DataTypesFormKE\DataTypesFormKE.csproj", "{AC909A45-313E-41CF-9C0A-2D4DDD4C66F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC909A45-313E-41CF-9C0A-2D4DDD4C66F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC909A45-313E-41CF-9C0A-2D4DDD4C66F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC909A45-313E-41CF-9C0A-2D4DDD4C66F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC909A45-313E-41CF-9C0A-2D4DDD4C66F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1643C51E-5F6D-456A-A782-D0972A0C883A}
+	EndGlobalSection
+EndGlobal
