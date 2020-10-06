@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ConditionalStatementsKE\ConditionalStatementsKE\bin\Debug\ConditionalStatementsKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ConditionalStatementsKE\ConditionalStatementsKE\bin\Debug\ConditionalStatementsKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ConditionalStatementsKE\ConditionalStatementsKE\bin\Debug\ConditionalStatementsKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ConditionalStatementsKE\ConditionalStatementsKE\obj\Debug\ConditionalStatementsKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ConditionalStatementsKE\ConditionalStatementsKE\obj\Debug\ConditionalStatementsKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ConditionalStatementsKE\ConditionalStatementsKE\obj\Debug\ConditionalStatementsKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ConditionalStatementsKE\ConditionalStatementsKE\obj\Debug\ConditionalStatementsKE.pdb

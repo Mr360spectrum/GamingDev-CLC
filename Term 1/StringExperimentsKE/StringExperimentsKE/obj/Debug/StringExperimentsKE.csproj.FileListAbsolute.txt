@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\StringExperimentsKE\StringExperimentsKE\bin\Debug\StringExperimentsKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\StringExperimentsKE\StringExperimentsKE\bin\Debug\StringExperimentsKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\StringExperimentsKE\StringExperimentsKE\bin\Debug\StringExperimentsKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\StringExperimentsKE\StringExperimentsKE\obj\Debug\StringExperimentsKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\StringExperimentsKE\StringExperimentsKE\obj\Debug\StringExperimentsKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\StringExperimentsKE\StringExperimentsKE\obj\Debug\StringExperimentsKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\StringExperimentsKE\StringExperimentsKE\obj\Debug\StringExperimentsKE.pdb

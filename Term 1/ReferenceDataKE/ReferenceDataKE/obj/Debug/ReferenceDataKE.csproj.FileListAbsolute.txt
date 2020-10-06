@@ -1,0 +1,7 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ReferenceDataKE\ReferenceDataKE\bin\Debug\ReferenceDataKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ReferenceDataKE\ReferenceDataKE\bin\Debug\ReferenceDataKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ReferenceDataKE\ReferenceDataKE\bin\Debug\ReferenceDataKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ReferenceDataKE\ReferenceDataKE\obj\Debug\ReferenceDataKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ReferenceDataKE\ReferenceDataKE\obj\Debug\ReferenceDataKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ReferenceDataKE\ReferenceDataKE\obj\Debug\ReferenceDataKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\ReferenceDataKE\ReferenceDataKE\obj\Debug\ReferenceDataKE.pdb

@@ -1,0 +1,10 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\bin\Debug\FlowControl.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\bin\Debug\FlowControl.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\bin\Debug\FlowControl.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\obj\Debug\FlowControl.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\obj\Debug\FlowControl.Form1.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\obj\Debug\FlowControl.Properties.Resources.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\obj\Debug\FlowControl.csproj.GenerateResource.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\obj\Debug\FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\obj\Debug\FlowControl.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\FlowControl\FlowControl\obj\Debug\FlowControl.pdb
