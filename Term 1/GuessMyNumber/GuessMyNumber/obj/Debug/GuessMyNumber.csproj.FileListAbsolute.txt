@@ -1,0 +1,10 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.Form1.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.Properties.Resources.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csproj.GenerateResource.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb
