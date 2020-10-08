@@ -53,21 +53,21 @@ namespace GuessMyNumber
                 upDownLabel.Text = "Guess higher.";
             }
 
-            if (guesses == 2 && !win)
+            if (guesses == 0 && !win)
             {
-                upDownLabel.Text = "You lost.";
+                upDownLabel.Text = "You lost. The number was " + number + ".";
                 guessButton.Enabled = false;
             }
 
             //Add one to total guesses
-            guesses++;
-
+            guesses--;
+            guessesLabel.Text = "You have " + (guesses + 1) + " guesses left.";
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            number = random.Next(1, 11);
-            guesses = 0;
+            number = random.Next(1, 101);
+            guesses = 2;
         }
     }
 }

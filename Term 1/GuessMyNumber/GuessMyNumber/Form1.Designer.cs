@@ -39,7 +39,7 @@
             // 
             // guessButton
             // 
-            this.guessButton.Location = new System.Drawing.Point(324, 350);
+            this.guessButton.Location = new System.Drawing.Point(335, 348);
             this.guessButton.Name = "guessButton";
             this.guessButton.Size = new System.Drawing.Size(125, 34);
             this.guessButton.TabIndex = 0;
@@ -51,7 +51,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(303, 28);
+            this.label1.Location = new System.Drawing.Point(313, 27);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(170, 24);
             this.label1.TabIndex = 1;
@@ -59,12 +59,7 @@
             // 
             // guessUpDown
             // 
-            this.guessUpDown.Location = new System.Drawing.Point(349, 280);
-            this.guessUpDown.Maximum = new decimal(new int[] {
-            10,
-            0,
-            0,
-            0});
+            this.guessUpDown.Location = new System.Drawing.Point(359, 278);
             this.guessUpDown.Minimum = new decimal(new int[] {
             1,
             0,
@@ -82,31 +77,31 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(304, 95);
+            this.label2.Location = new System.Drawing.Point(314, 96);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(161, 13);
+            this.label2.Size = new System.Drawing.Size(167, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "My number is between 1 and 10.";
+            this.label2.Text = "My number is between 1 and 100.";
             // 
             // upDownLabel
             // 
-            this.upDownLabel.AutoSize = true;
             this.upDownLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.upDownLabel.Location = new System.Drawing.Point(356, 237);
+            this.upDownLabel.Location = new System.Drawing.Point(-9, 228);
             this.upDownLabel.Name = "upDownLabel";
-            this.upDownLabel.Size = new System.Drawing.Size(71, 25);
+            this.upDownLabel.Size = new System.Drawing.Size(816, 25);
             this.upDownLabel.TabIndex = 4;
             this.upDownLabel.Text = "shhhh";
+            this.upDownLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.upDownLabel.Visible = false;
             // 
             // guessesLabel
             // 
-            this.guessesLabel.AutoSize = true;
-            this.guessesLabel.Location = new System.Drawing.Point(324, 409);
+            this.guessesLabel.Location = new System.Drawing.Point(-7, 406);
             this.guessesLabel.Name = "guessesLabel";
-            this.guessesLabel.Size = new System.Drawing.Size(125, 13);
+            this.guessesLabel.Size = new System.Drawing.Size(816, 13);
             this.guessesLabel.TabIndex = 5;
-            this.guessesLabel.Text = "You have three guesses.";
+            this.guessesLabel.Text = "You have 3 guesses left.";
+            this.guessesLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 

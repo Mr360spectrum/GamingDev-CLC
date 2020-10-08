@@ -1,0 +1,10 @@
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\bin\Debug\TicTacToeKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\bin\Debug\TicTacToeKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\bin\Debug\TicTacToeKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\obj\Debug\TicTacToeKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\obj\Debug\TicTacToeKE.Form1.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\obj\Debug\TicTacToeKE.Properties.Resources.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\obj\Debug\TicTacToeKE.csproj.GenerateResource.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\obj\Debug\TicTacToeKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\obj\Debug\TicTacToeKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 1\TicTacToeKE\TicTacToeKE\obj\Debug\TicTacToeKE.pdb
