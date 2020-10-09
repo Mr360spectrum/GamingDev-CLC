@@ -1,0 +1,7 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\OddOrEvenKE\OddOrEvenKE\bin\Debug\OddOrEvenKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\OddOrEvenKE\OddOrEvenKE\bin\Debug\OddOrEvenKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\OddOrEvenKE\OddOrEvenKE\bin\Debug\OddOrEvenKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\OddOrEvenKE\OddOrEvenKE\obj\Debug\OddOrEvenKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\OddOrEvenKE\OddOrEvenKE\obj\Debug\OddOrEvenKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\OddOrEvenKE\OddOrEvenKE\obj\Debug\OddOrEvenKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\OddOrEvenKE\OddOrEvenKE\obj\Debug\OddOrEvenKE.pdb
