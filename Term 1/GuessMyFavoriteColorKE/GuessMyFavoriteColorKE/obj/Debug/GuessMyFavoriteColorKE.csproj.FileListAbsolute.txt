@@ -1,0 +1,7 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\GuessMyFavoriteColorKE\GuessMyFavoriteColorKE\bin\Debug\GuessMyFavoriteColorKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\GuessMyFavoriteColorKE\GuessMyFavoriteColorKE\bin\Debug\GuessMyFavoriteColorKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\GuessMyFavoriteColorKE\GuessMyFavoriteColorKE\bin\Debug\GuessMyFavoriteColorKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\GuessMyFavoriteColorKE\GuessMyFavoriteColorKE\obj\Debug\GuessMyFavoriteColorKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\GuessMyFavoriteColorKE\GuessMyFavoriteColorKE\obj\Debug\GuessMyFavoriteColorKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\GuessMyFavoriteColorKE\GuessMyFavoriteColorKE\obj\Debug\GuessMyFavoriteColorKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\GuessMyFavoriteColorKE\GuessMyFavoriteColorKE\obj\Debug\GuessMyFavoriteColorKE.pdb
