@@ -1,0 +1,15 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\bin\Debug\TicTacToeWPF_KE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\bin\Debug\TicTacToeWPF_KE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\bin\Debug\TicTacToeWPF_KE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\MainWindow.g.cs
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\App.g.cs
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE_MarkupCompile.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE_MarkupCompile.lref
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\MainWindow.baml
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE.g.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TicTacToeWPF_KE\TicTacToeWPF_KE\obj\Debug\TicTacToeWPF_KE.pdb
