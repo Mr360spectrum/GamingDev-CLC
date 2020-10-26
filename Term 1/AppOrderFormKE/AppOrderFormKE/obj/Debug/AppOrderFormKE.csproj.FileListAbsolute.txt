@@ -1,0 +1,10 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\obj\Debug\AppOrderFormKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\obj\Debug\AppOrderFormKE.Form1.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\obj\Debug\AppOrderFormKE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\obj\Debug\AppOrderFormKE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\obj\Debug\AppOrderFormKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\bin\Debug\AppOrderFormKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\bin\Debug\AppOrderFormKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\bin\Debug\AppOrderFormKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\obj\Debug\AppOrderFormKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\AppOrderFormKE\AppOrderFormKE\obj\Debug\AppOrderFormKE.pdb
