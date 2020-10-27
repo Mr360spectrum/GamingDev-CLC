@@ -1,0 +1,10 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\obj\Debug\PlayerOneChapter6KE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\obj\Debug\PlayerOneChapter6KE.Form1.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\obj\Debug\PlayerOneChapter6KE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\obj\Debug\PlayerOneChapter6KE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\obj\Debug\PlayerOneChapter6KE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\bin\Debug\PlayerOneChapter6KE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\bin\Debug\PlayerOneChapter6KE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\bin\Debug\PlayerOneChapter6KE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\obj\Debug\PlayerOneChapter6KE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\PlayerOneChapter6KE\PlayerOneChapter6KE\obj\Debug\PlayerOneChapter6KE.pdb
