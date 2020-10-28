@@ -26,6 +26,7 @@ namespace AppOrderFormKE
         public TextBox txtBox = new TextBox();
         public Label nameLbl = new Label();
         public Button bttn1 = new Button();
+        public ListBox listBox1 = new ListBox();
         
         public Form1()
         {
@@ -42,7 +43,7 @@ namespace AppOrderFormKE
             this.Size = new System.Drawing.Size(WIDTH, HEIGHT);
             this.Text = "Form Setup";
             this.StartPosition = FormStartPosition.CenterScreen;
-
+            
             //Textbox setup
             this.txtBox.Text = "Enter your name:";
             this.txtBox.Location = new System.Drawing.Point((WIDTH/2)-50, (HEIGHT/4)-25);
@@ -52,7 +53,7 @@ namespace AppOrderFormKE
             this.txtBox.Multiline = true;
             this.txtBox.ScrollBars = ScrollBars.Vertical;
             this.txtBox.TextChanged += new EventHandler(txtBox_TextChanged);
-            this.txtBox.MouseHover += new EventHandler(txtBox_MouseHover);
+            //this.txtBox.MouseHover += new EventHandler(txtBox_MouseHover);
 
             //Label setup
             this.nameLbl.Location = new System.Drawing.Point(WIDTH / 2 - 50, (HEIGHT / 4 - 50));
@@ -61,14 +62,31 @@ namespace AppOrderFormKE
 
             //Button setup
             this.bttn1.Text = "Button";
-            this.bttn1.Location = new System.Drawing.Point(0, 0);
+            this.bttn1.Location = new System.Drawing.Point(WIDTH / 2 - 50, HEIGHT - 100);
             this.bttn1.Size = new System.Drawing.Size(100, 50);
             this.bttn1.BackColor = Color.White;
+            this.bttn1.Click += new EventHandler(bttn1_Click);
+
+            //ListBox setup
+            double x = HEIGHT * 0.75;
+            this.listBox1.Location = new System.Drawing.Point(WIDTH / 2 - 100, (int)x - 150);
+            this.listBox1.Size = new System.Drawing.Size(200, 150);
+            this.listBox1.SelectionMode = SelectionMode.MultiExtended;
             
+            String[] toppings = { "Pepporoni", "Sausage", "Anchovy", "Chicken", "Black Olives", "Green Olives", "Bacon",
+                "Onion", "Spinach", "Tomatoes", "Mushrooms", "Ground Beef", "Ham", "Steak", "Japapenos", "Feta", "Red Pepper",
+                "Green Pepper", "Barbecue Sauce", "Banana Peppers", "Pineapple"};
+
+            for (int i = 0; i < 21; i++)
+            {
+                listBox1.Items.Add(toppings[i]);
+            }
+
             //Add controls to form
             this.Controls.Add(txtBox);
             this.Controls.Add(nameLbl);
             this.Controls.Add(bttn1);
+            this.Controls.Add(listBox1);
         }
 
         private void txtBox_TextChanged(object sender, EventArgs e)
@@ -83,7 +101,13 @@ namespace AppOrderFormKE
 
         private void bttn1_Click(object sender, EventArgs e)
         {
-            
+            String selectedToppings = "";
+            foreach (int i in listBox1.SelectedIndices)
+            {
+                String topping = listBox1.Items[i].ToString();
+                selectedToppings += topping + "\n";
+            }
+            MessageBox.Show("Your name is: " + txtBox.Text + ".\nYou ordered:\n" + selectedToppings);
         }
     }
 }
