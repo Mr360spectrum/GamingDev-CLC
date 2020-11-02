@@ -27,6 +27,7 @@ namespace AppOrderFormKE
         public Label nameLbl = new Label();
         public Button bttn1 = new Button();
         public ListBox listBox1 = new ListBox();
+        public ComboBox cBox1 = new ComboBox();
         
         public Form1()
         {
@@ -82,11 +83,16 @@ namespace AppOrderFormKE
                 listBox1.Items.Add(toppings[i]);
             }
 
+            //ComboBox setup
+            this.cBox1.Location = new System.Drawing.Point(WIDTH / 2 - 100, 25);
+            this.cBox1.Size = new System.Drawing.Size(200, 50);
+
             //Add controls to form
             this.Controls.Add(txtBox);
             this.Controls.Add(nameLbl);
             this.Controls.Add(bttn1);
             this.Controls.Add(listBox1);
+            this.Controls.Add(cBox1);
         }
 
         private void txtBox_TextChanged(object sender, EventArgs e)
