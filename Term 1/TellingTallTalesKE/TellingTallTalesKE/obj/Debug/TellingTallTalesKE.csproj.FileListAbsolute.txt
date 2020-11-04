@@ -1,0 +1,10 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\bin\Debug\TellingTallTalesKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\bin\Debug\TellingTallTalesKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\bin\Debug\TellingTallTalesKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\obj\Debug\TellingTallTalesKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\obj\Debug\TellingTallTalesKE.Form1.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\obj\Debug\TellingTallTalesKE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\obj\Debug\TellingTallTalesKE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\obj\Debug\TellingTallTalesKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\obj\Debug\TellingTallTalesKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 1\TellingTallTalesKE\TellingTallTalesKE\obj\Debug\TellingTallTalesKE.pdb
