@@ -1,0 +1,15 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\bin\Debug\CalculatorKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\bin\Debug\CalculatorKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\bin\Debug\CalculatorKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\MainWindow.g.cs
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\App.g.cs
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE_MarkupCompile.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE_MarkupCompile.lref
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\MainWindow.baml
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE.g.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CalculatorKE\CalculatorKE\obj\Debug\CalculatorKE.pdb

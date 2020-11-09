@@ -1,0 +1,7 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\MathematicalFunctionsKE\MathematicalFunctionsKE\bin\Debug\MathematicalFunctionsKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\MathematicalFunctionsKE\MathematicalFunctionsKE\bin\Debug\MathematicalFunctionsKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\MathematicalFunctionsKE\MathematicalFunctionsKE\bin\Debug\MathematicalFunctionsKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\MathematicalFunctionsKE\MathematicalFunctionsKE\obj\Debug\MathematicalFunctionsKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\MathematicalFunctionsKE\MathematicalFunctionsKE\obj\Debug\MathematicalFunctionsKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\MathematicalFunctionsKE\MathematicalFunctionsKE\obj\Debug\MathematicalFunctionsKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\MathematicalFunctionsKE\MathematicalFunctionsKE\obj\Debug\MathematicalFunctionsKE.pdb

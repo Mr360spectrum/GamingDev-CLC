@@ -1,0 +1,7 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RandomRootsKE\RandomRootsKE\bin\Debug\RandomRootsKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RandomRootsKE\RandomRootsKE\bin\Debug\RandomRootsKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RandomRootsKE\RandomRootsKE\bin\Debug\RandomRootsKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RandomRootsKE\RandomRootsKE\obj\Debug\RandomRootsKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RandomRootsKE\RandomRootsKE\obj\Debug\RandomRootsKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RandomRootsKE\RandomRootsKE\obj\Debug\RandomRootsKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RandomRootsKE\RandomRootsKE\obj\Debug\RandomRootsKE.pdb
