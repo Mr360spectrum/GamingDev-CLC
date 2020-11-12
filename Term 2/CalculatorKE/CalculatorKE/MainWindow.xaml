@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CalculatorKE"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="400">
+        Title="MainWindow" Height="500" Width="600">
 
     <Window.Resources>
         <Style TargetType="Button">
@@ -26,9 +26,10 @@
             <Setter Property="Background" Value="#29FF14"/>
         </Style>
     </Window.Resources>
-    
     <Grid>
         <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
@@ -41,22 +42,29 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <TextBox x:Name="screen" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4"/>
-        <Button x:Name="num1" Grid.Column="0" Grid.Row="1" Content="1"/>
-        <Button x:Name="num2" Grid.Column="1" Grid.Row="1" Content="2"/>
-        <Button x:Name="num3" Grid.Column="2" Grid.Row="1" Content="3"/>
-        <Button x:Name="add" Grid.Column="3" Grid.Row="1" Content="+"/>
-        <Button x:Name="num4" Grid.Column="0" Grid.Row="2" Content="4"/>
-        <Button x:Name="num5" Grid.Column="1" Grid.Row="2" Content="5"/>
-        <Button x:Name="num6" Grid.Column="2" Grid.Row="2" Content="6"/>
-        <Button x:Name="minus" Grid.Column="3" Grid.Row="2" Content="-"/>
-        <Button x:Name="num7" Grid.Column="0" Grid.Row="3" Content="7"/>
-        <Button x:Name="num8" Grid.Column="1" Grid.Row="3" Content="8"/>
-        <Button x:Name="num9" Grid.Column="2" Grid.Row="3" Content="9"/>
-        <Button x:Name="multiply" Grid.Column="3" Grid.Row="3" Content="*"/>
-        <Button x:Name="clr" Grid.Column="0" Grid.Row="4" Content="C"/>
-        <Button x:Name="num0" Grid.Column="1" Grid.Row="4" Content="0"/>
-        <Button x:Name="equal" Grid.Column="2" Grid.Row="4" Content="="/>
-        <Button x:Name="divide" Grid.Column="3" Grid.Row="4" Content="/"/>
+        <TextBox x:Name="screen" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="6" Text="0"/>
+        <Button x:Name="num2" Grid.Column="1" Grid.Row="1" Content="2" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="num1" Grid.Column="0" Grid.Row="1" Content="1" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="num3" Grid.Column="2" Grid.Row="1" Content="3" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="add" Grid.Column="3" Grid.Row="1" Content="+" Click="operatorClick" />
+        <Button x:Name="num4" Grid.Column="0" Grid.Row="2" Content="4" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="num5" Grid.Column="1" Grid.Row="2" Content="5" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="num6" Grid.Column="2" Grid.Row="2" Content="6" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="minus" Grid.Column="3" Grid.Row="2" Content="-" Click="operatorClick"/>
+        <Button x:Name="num7" Grid.Column="0" Grid.Row="3" Content="7" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="num8" Grid.Column="1" Grid.Row="3" Content="8" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="num9" Grid.Column="2" Grid.Row="3" Content="9" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="multiply" Grid.Column="3" Grid.Row="3" Content="*" Click="operatorClick"/>
+        <Button x:Name="clr" Grid.Column="5" Grid.Row="3" Content="C" Click="clr_Click" Background="DarkCyan"/>
+        <Button x:Name="num0" Grid.Column="1" Grid.Row="4" Content="0" Click="numClick" Background="LawnGreen"/>
+        <Button x:Name="equal" Grid.Column="4" Grid.Row="4" Grid.ColumnSpan="2" Content="=" Background="Azure" Click="equal_Click"/>
+        <Button x:Name="divide" Grid.Column="3" Grid.Row="4" Content="/" Click="operatorClick"/>
+        <Button x:Name="pi" Grid.Column="4" Grid.Row="1" Content="π" Click="numClick" />
+        <Button x:Name="e" Grid.Column="5" Grid.Row="1" Content="e" Click="numClick" />
+        <Button x:Name="sqr" Grid.Column="4" Grid.Row="2" Content="x^2" Click="sqr_Click" />
+        <Button x:Name="pow" Grid.Column="4" Grid.Row="3" Content="x^y" Click="operatorClick"/>
+        <Button x:Name="dec" Grid.Column="2" Grid.Row="4" Content="." Click="numClick" Background="LightGreen"/>
+        <Button x:Name="negate" Grid.Column="0" Grid.Row="5" Content="+/-" Click="negate_Click" Background="LightGreen"/>
+        <Button x:Name="sqrt" Grid.Column="5" Grid.Row="2" Content="√x" Click="sqrt_Click" />
     </Grid>
 </Window>

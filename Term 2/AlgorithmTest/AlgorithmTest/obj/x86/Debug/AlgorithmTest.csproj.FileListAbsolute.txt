@@ -1,0 +1,9 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.AlgorithmTest.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.pdb

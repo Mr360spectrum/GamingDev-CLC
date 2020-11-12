@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+Karter Ence
+Algorithm Test
+11/9/2020
+Chapter 7 Activity
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -27,16 +33,39 @@ namespace AlgorithmTest
         // The student will add code to this method in the Chapter Activity.
         private int findMagicNumber(int myNumber)
         {
-            // replace with student code
-            return 0;
+            int magicNumber = myNumber;
+
+            magicNumber *= 3;
+            magicNumber += 6;
+            magicNumber /= 3;
+            magicNumber -= myNumber;
+            return magicNumber;
         }
 
         // TODO BY STUDENT
         // The student will add code to this method in the Chapter Activity.
         private char convertToLetterGrade(int numberGrade)
         {
-            // replace with student code
-            return 'A';
+            if (numberGrade >= 90)
+            {
+                return 'A';
+            }
+            else if (numberGrade >= 80)
+            {
+                return 'B';
+            }
+            else if (numberGrade >= 70)
+            {
+                return 'C';
+            }
+            else if (numberGrade >= 60)
+            {
+                return 'D';
+            }
+            else
+            {
+                return 'F';
+            }
         }
 
         // This code is provided complete in the Activity Starter
