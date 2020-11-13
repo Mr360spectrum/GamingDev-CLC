@@ -27,6 +27,7 @@ namespace CalculatorKE
     /// </summary>
     public partial class MainWindow : Window
     {
+        //Declare public variables that can be used between methods
         double operand1;
         double operand2;
         String operation;
@@ -52,12 +53,14 @@ namespace CalculatorKE
         {
             String text = "";
             Button button = (Button)sender;
+            //Use what is already in screen if the text is not equal to 0 or an operator
             if (screen.Text != "0" & screen.Text != "+" & screen.Text != "-" 
                 & screen.Text != "*" & screen.Text != "/" & screen.Text !="^")
             {
                 text = screen.Text;
             }
 
+            //If the button that was pressed was pi or e, replace the screen's text with the respective constant value
             if (button.Content.ToString() == "π")
             {
                 text = Math.PI.ToString();
@@ -71,6 +74,7 @@ namespace CalculatorKE
                 text += button.Content.ToString();
             }
             
+            //Replace the screen's text with the new text
             screen.Text = text;
         }
 
@@ -83,8 +87,10 @@ namespace CalculatorKE
         {
             Button button = (Button)sender;
             
+            //Take what is in the screen and convert it to a double
             operand1 = Convert.ToDouble(screen.Text);
 
+            //Assign the operation
             if (button.Content.ToString() == "x^y")
             {
                 operation = "pow";
@@ -99,6 +105,7 @@ namespace CalculatorKE
 
         private void clr_Click(object sender, RoutedEventArgs e)
         {
+            //Reset the variables and the screen's text
             operand1 = 0;
             operand2 = 0;
             operation = "";
@@ -108,6 +115,7 @@ namespace CalculatorKE
         private void equal_Click(object sender, RoutedEventArgs e)
         {
             operand2 = Convert.ToDouble(screen.Text);
+            //Find the operation
             if (operation == "+")
             {
                 double ans = operand1 + operand2;
@@ -146,6 +154,7 @@ namespace CalculatorKE
 
         private void sqr_Click(object sender, RoutedEventArgs e)
         {
+            //If the square button is clicked, square the number that is in the screen's text
             double operand = Convert.ToDouble(screen.Text);
             double ans = Math.Pow(operand, 2);
             screen.Text = ans.ToString();
@@ -153,6 +162,7 @@ namespace CalculatorKE
 
         private void sqrt_Click(object sender, RoutedEventArgs e)
         {
+            //If the square root button is clicked, find the square root of the number that is in the screen's text
             double operand = Convert.ToDouble(screen.Text);
             double ans = Math.Sqrt(operand);
             screen.Text = ans.ToString();
@@ -160,6 +170,7 @@ namespace CalculatorKE
 
         private void negate_Click(object sender, RoutedEventArgs e)
         {
+            //If the +/- button is clicked while there is already a negative sign in front of the number, remove it
             if (screen.Text.Substring(0,1)== "-")
             {
                 screen.Text = screen.Text.TrimStart('-');
