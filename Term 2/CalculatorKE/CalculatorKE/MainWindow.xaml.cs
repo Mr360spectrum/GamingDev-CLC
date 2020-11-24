@@ -118,33 +118,69 @@ namespace CalculatorKE
             //Find the operation
             if (operation == "+")
             {
-                double ans = operand1 + operand2;
-                screen.Text = ans.ToString();
+                try
+                {
+                    double ans = operand1 + operand2;
+                    screen.Text = ans.ToString();
+                }
+                catch(SystemException ex)
+                {
+                    MessageBox.Show("Something went wrong.\n" + ex.Message);
+                }
             }
             else if(operation == "-")
             {
-                double ans = operand1 - operand2;
-                screen.Text = ans.ToString();
+                try
+                {
+                    double ans = operand1 - operand2;
+                    screen.Text = ans.ToString();
+                }
+                catch (SystemException ex)
+                {
+                    MessageBox.Show("Something went wrong.\n" + ex.Message);
+                }
             }
             else if(operation == "*")
             {
-                double ans = operand1 * operand2;
-                screen.Text = ans.ToString();
+                try
+                {
+                    double ans = operand1 * operand2;
+                    screen.Text = ans.ToString();
+                }
+                catch (SystemException ex)
+                {
+                    MessageBox.Show("Something went wrong.\n" + ex.Message);
+                }
             }
             else if(operation == "/")
             {
-                if (operand2 == 0)
+                try
                 {
-                    MessageBox.Show("Did you just try to divide by zero? You're not clever or anything.");
-                    return;
+                    if (operand2 == 0)
+                    {
+                        MessageBox.Show("Did you just try to divide by zero? You're not clever or anything.");
+                        return;
+                    }
+                    double ans = operand1 / operand2;
+                    screen.Text = ans.ToString();
                 }
-                double ans = operand1 / operand2;
-                screen.Text = ans.ToString();
+                catch (SystemException ex)
+                {
+                    MessageBox.Show("Something went wrong.\n" + ex.Message);
+                }
             }
             else if (operation == "pow")
             {
-                double ans = Math.Pow(operand1, operand2);
-                screen.Text = ans.ToString();
+                try
+                {
+                    double ans = Math.Pow(operand1, operand2);
+                    screen.Text = ans.ToString();
+                }
+                catch (SystemException ex)
+                {
+                    MessageBox.Show("Something went wrong.\n" + ex.Message);
+                }
+
             }
             else
             {

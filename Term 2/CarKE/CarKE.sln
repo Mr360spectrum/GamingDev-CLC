@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarKE", "CarKE\CarKE.csproj", "{A122A8F3-4B33-4736-9A17-D49467E8BBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A122A8F3-4B33-4736-9A17-D49467E8BBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A122A8F3-4B33-4736-9A17-D49467E8BBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A122A8F3-4B33-4736-9A17-D49467E8BBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A122A8F3-4B33-4736-9A17-D49467E8BBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70268B33-C077-44A3-B845-BF7DAB539EF1}
+	EndGlobalSection
+EndGlobal
