@@ -42,6 +42,14 @@
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.gameLoop = new System.Windows.Forms.Timer(this.components);
             this.playerCar = new System.Windows.Forms.PictureBox();
+            this.enemyCar1 = new System.Windows.Forms.PictureBox();
+            this.tire1 = new System.Windows.Forms.PictureBox();
+            this.scoreLbl = new System.Windows.Forms.Label();
+            this.gameOverLbl = new System.Windows.Forms.Label();
+            this.enemyCar2 = new System.Windows.Forms.PictureBox();
+            this.enemyCar3 = new System.Windows.Forms.PictureBox();
+            this.tire2 = new System.Windows.Forms.PictureBox();
+            this.tire3 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -53,6 +61,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.playerCar)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.enemyCar1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tire1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.enemyCar2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.enemyCar3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tire2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tire3)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -156,12 +170,95 @@
             this.playerCar.BackColor = System.Drawing.Color.Transparent;
             this.playerCar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("playerCar.BackgroundImage")));
             this.playerCar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.playerCar.Location = new System.Drawing.Point(56, 565);
+            this.playerCar.Location = new System.Drawing.Point(73, 491);
             this.playerCar.Name = "playerCar";
-            this.playerCar.Size = new System.Drawing.Size(101, 162);
+            this.playerCar.Size = new System.Drawing.Size(42, 80);
             this.playerCar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.playerCar.TabIndex = 1;
             this.playerCar.TabStop = false;
+            // 
+            // enemyCar1
+            // 
+            this.enemyCar1.Image = ((System.Drawing.Image)(resources.GetObject("enemyCar1.Image")));
+            this.enemyCar1.Location = new System.Drawing.Point(59, 34);
+            this.enemyCar1.Name = "enemyCar1";
+            this.enemyCar1.Size = new System.Drawing.Size(42, 80);
+            this.enemyCar1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.enemyCar1.TabIndex = 2;
+            this.enemyCar1.TabStop = false;
+            // 
+            // tire1
+            // 
+            this.tire1.Image = ((System.Drawing.Image)(resources.GetObject("tire1.Image")));
+            this.tire1.Location = new System.Drawing.Point(278, 87);
+            this.tire1.Name = "tire1";
+            this.tire1.Size = new System.Drawing.Size(45, 42);
+            this.tire1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.tire1.TabIndex = 3;
+            this.tire1.TabStop = false;
+            // 
+            // scoreLbl
+            // 
+            this.scoreLbl.AutoSize = true;
+            this.scoreLbl.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.scoreLbl.ForeColor = System.Drawing.Color.Yellow;
+            this.scoreLbl.Location = new System.Drawing.Point(33, 0);
+            this.scoreLbl.Name = "scoreLbl";
+            this.scoreLbl.Size = new System.Drawing.Size(117, 40);
+            this.scoreLbl.TabIndex = 4;
+            this.scoreLbl.Text = "Score: 0";
+            // 
+            // gameOverLbl
+            // 
+            this.gameOverLbl.AutoSize = true;
+            this.gameOverLbl.BackColor = System.Drawing.Color.Transparent;
+            this.gameOverLbl.Font = new System.Drawing.Font("Wide Latin", 18F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gameOverLbl.ForeColor = System.Drawing.Color.Red;
+            this.gameOverLbl.Location = new System.Drawing.Point(44, 262);
+            this.gameOverLbl.Name = "gameOverLbl";
+            this.gameOverLbl.Size = new System.Drawing.Size(296, 29);
+            this.gameOverLbl.TabIndex = 5;
+            this.gameOverLbl.Text = "GAME OVER";
+            // 
+            // enemyCar2
+            // 
+            this.enemyCar2.Image = ((System.Drawing.Image)(resources.GetObject("enemyCar2.Image")));
+            this.enemyCar2.Location = new System.Drawing.Point(211, 34);
+            this.enemyCar2.Name = "enemyCar2";
+            this.enemyCar2.Size = new System.Drawing.Size(42, 80);
+            this.enemyCar2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.enemyCar2.TabIndex = 6;
+            this.enemyCar2.TabStop = false;
+            // 
+            // enemyCar3
+            // 
+            this.enemyCar3.Image = ((System.Drawing.Image)(resources.GetObject("enemyCar3.Image")));
+            this.enemyCar3.Location = new System.Drawing.Point(225, 163);
+            this.enemyCar3.Name = "enemyCar3";
+            this.enemyCar3.Size = new System.Drawing.Size(42, 80);
+            this.enemyCar3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.enemyCar3.TabIndex = 7;
+            this.enemyCar3.TabStop = false;
+            // 
+            // tire2
+            // 
+            this.tire2.Image = ((System.Drawing.Image)(resources.GetObject("tire2.Image")));
+            this.tire2.Location = new System.Drawing.Point(70, 190);
+            this.tire2.Name = "tire2";
+            this.tire2.Size = new System.Drawing.Size(45, 42);
+            this.tire2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.tire2.TabIndex = 8;
+            this.tire2.TabStop = false;
+            // 
+            // tire3
+            // 
+            this.tire3.Image = ((System.Drawing.Image)(resources.GetObject("tire3.Image")));
+            this.tire3.Location = new System.Drawing.Point(269, 282);
+            this.tire3.Name = "tire3";
+            this.tire3.Size = new System.Drawing.Size(45, 42);
+            this.tire3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.tire3.TabIndex = 9;
+            this.tire3.TabStop = false;
             // 
             // road
             // 
@@ -169,6 +266,14 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
             this.ClientSize = new System.Drawing.Size(384, 761);
+            this.Controls.Add(this.tire3);
+            this.Controls.Add(this.tire2);
+            this.Controls.Add(this.enemyCar3);
+            this.Controls.Add(this.enemyCar2);
+            this.Controls.Add(this.gameOverLbl);
+            this.Controls.Add(this.scoreLbl);
+            this.Controls.Add(this.tire1);
+            this.Controls.Add(this.enemyCar1);
             this.Controls.Add(this.playerCar);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox7);
@@ -194,7 +299,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.playerCar)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.enemyCar1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tire1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.enemyCar2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.enemyCar3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tire2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tire3)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -212,6 +324,14 @@
         private System.Windows.Forms.PictureBox pictureBox10;
         private System.Windows.Forms.Timer gameLoop;
         private System.Windows.Forms.PictureBox playerCar;
+        private System.Windows.Forms.PictureBox enemyCar1;
+        private System.Windows.Forms.PictureBox tire1;
+        private System.Windows.Forms.Label scoreLbl;
+        private System.Windows.Forms.Label gameOverLbl;
+        private System.Windows.Forms.PictureBox enemyCar2;
+        private System.Windows.Forms.PictureBox enemyCar3;
+        private System.Windows.Forms.PictureBox tire2;
+        private System.Windows.Forms.PictureBox tire3;
     }
 }
 

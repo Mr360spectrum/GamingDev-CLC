@@ -1,21 +1,36 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace RacerKE
 {
     public partial class road : Form
     {
+        //Initialize variables and random object
         int speed = 0;
+        Random random = new Random();
+        int score = 0;
+
         public road()
         {
             InitializeComponent();
+            //Make gameOverLbl not visible and initialize score
+            gameOverLbl.Visible = false;
+            score = 0;
+        }
+
+        public void gameOver()
+        {
+            //Check to see if the player collides with enemy cars
+            if (playerCar.Bounds.IntersectsWith(enemyCar1.Bounds) || playerCar.Bounds.IntersectsWith(enemyCar2.Bounds)
+                || playerCar.Bounds.IntersectsWith(enemyCar3.Bounds))
+            {
+                //Stop the game and prevent the player from moving
+                gameLoop.Enabled = false;
+                speed = 0;
+                //Show the gameOverLbl
+                gameOverLbl.Visible = true;
+            }
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
@@ -30,9 +45,147 @@ namespace RacerKE
 
         private void gameLoop_Tick(object sender, EventArgs e)
         {
+            //Move objects and check for collisions every single tick
             moveLine(speed);
+            enemy1(speed);
+            enemy2(speed);
+            enemy3(speed);
+            collectable1(speed);
+            collectable2(speed);
+            collectable3(speed);
+            gameOver();
         }
 
+        public void enemy1(int speed)
+        {
+            //If the enemy car goes off screen, move it back above the screen at a random point
+            if (enemyCar1.Top >= 800)
+            {
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                enemyCar1.Location = new Point(x, y);
+            }
+            else
+            {
+                //change the car's speed at the rate of "speed"
+                enemyCar1.Top += Convert.ToInt32(Math.Round((double)(speed / 2)));
+            }
+        }
+
+        public void enemy2(int speed)
+        {
+            if (enemyCar2.Top >= 800)
+            {
+                
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                enemyCar2.Location = new Point(x, y);
+            }
+            else
+            {
+                enemyCar2.Top += Convert.ToInt32(Math.Round((double)(speed / 2)));
+            }
+        }
+
+        public void enemy3(int speed)
+        {
+            if (enemyCar3.Top >= 800)
+            {
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                enemyCar3.Location = new Point(x, y);
+            }
+            else
+            {
+                enemyCar3.Top += Convert.ToInt32(Math.Round((double)(speed / 2)));
+            }
+        }
+
+        //If the tire goes off the screen, move it back above the screen at a random point
+        public void collectable1(int speed)
+        {
+            if (tire1.Top >= 800)
+            {
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                tire1.Location = new Point(x, y);
+            }
+            else
+            {
+                //Change the tire's speed
+                 tire1.Top += Convert.ToInt32(Math.Round((double)(speed / 2)));
+            }
+            
+            //Check for collision between tire and player
+            if (playerCar.Bounds.IntersectsWith(tire1.Bounds))
+            {
+                //Increase score by 1
+                score++;
+                //Update score label
+                scoreLbl.Text = "Score:" + score.ToString();
+                //Change location of tire
+                int x = random.Next(25, 330);
+                int y = random.Next(-100, 0);
+                tire1.Location = new Point(x, y);
+            }
+        }
+
+        public void collectable2(int speed)
+        {
+            if (tire2.Top >= 800)
+            {
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                tire2.Location = new Point(x, y);
+            }
+            else
+            {
+                tire2.Top += Convert.ToInt32(Math.Round((double)(speed / 2)));
+            }
+
+            //Check for collision between tire and player
+            if (playerCar.Bounds.IntersectsWith(tire2.Bounds))
+            {
+                //Increase score by 1
+                score += speed;
+                //Update score label
+                scoreLbl.Text = "Score:" + score.ToString();
+                //Change location of tire
+                int x = random.Next(25, 330);
+                int y = random.Next(-100, 0);
+                tire2.Location = new Point(x, y);
+            }
+        }
+
+        public void collectable3(int speed)
+        {
+            if (tire3.Top >= 800)
+            {
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                tire3.Location = new Point(x, y);
+            }
+            else
+            {
+                tire3.Top += Convert.ToInt32(Math.Round((double)(speed / 2)));
+            }
+
+            //Check for collision between tire and player
+            if (playerCar.Bounds.IntersectsWith(tire3.Bounds))
+            {
+                //Increase score by 1
+                score++;
+                //Update score label
+                scoreLbl.Text = "Score:" + score.ToString();
+                //Change location of tire
+                int x = random.Next(25, 330);
+                int y = random.Next(-100, 0);
+                tire3.Location = new Point(x, y);
+            }
+        }
+
+        //Move white center lines
+        //If they go off the screen, move them back above the screen
         public void moveLine(int speed)
         {
             if (pictureBox1.Top >= 800)
@@ -102,34 +255,55 @@ namespace RacerKE
 
         }
 
+        //Check for input
         private void road_KeyDown(object sender, KeyEventArgs e)
         {
+            //Move playerCar left
             if (e.KeyCode == Keys.Left || e.KeyCode == Keys.A)
             {
-                if (playerCar.Left > 0)
+                //Only move left if speed is not 0
+                if (speed != 0)
                 {
-                    playerCar.Left += -8;
-                }
+                    if (playerCar.Left > 0)
+                    {
+                        playerCar.Left += -8;
+                    }
+                } 
             }
+            //Move playerCar right
             if (e.KeyCode == Keys.Right || e.KeyCode == Keys.D)
             {
-                if (playerCar.Right < 400)
+                //Only move right if speed is not 0
+                if (speed != 0)
                 {
-                    playerCar.Left += 8;
+                    if (playerCar.Right < 400)
+                    {
+                        playerCar.Left += 8;
+                    }
                 }
             }
+            //Increase speed
             if (e.KeyCode == Keys.Up || e.KeyCode == Keys.W)
             {
                 if (speed < 21)
                 {
                     speed++;
+                    if (speed == 1)
+                    {
+                        speed = 2;
+                    }
                 }
             }
+            //Decrease speed
             if (e.KeyCode == Keys.Down || e.KeyCode == Keys.S)
             {
                 if (speed > -20)
                 {
                     speed--;
+                    if (speed == 1)
+                    {
+                        speed = 0;
+                    }
                 }
             }
         }

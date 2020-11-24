@@ -8,3 +8,13 @@ C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RacerKE\RacerKE\ob
 C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.csproj.CoreCompileInputs.cache
 C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.exe
 C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\bin\Debug\RacerKE.exe.config
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\bin\Debug\RacerKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\bin\Debug\RacerKE.pdb
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.csprojAssemblyReference.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.road.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.Properties.Resources.resources
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.csproj.GenerateResource.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.csproj.CoreCompileInputs.cache
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.exe
+C:\Users\karter.ence\Documents\Gaming Development\Term 2\RacerKE\RacerKE\obj\Debug\RacerKE.pdb
