@@ -50,6 +50,8 @@
             this.enemyCar3 = new System.Windows.Forms.PictureBox();
             this.tire2 = new System.Windows.Forms.PictureBox();
             this.tire3 = new System.Windows.Forms.PictureBox();
+            this.laser = new System.Windows.Forms.PictureBox();
+            this.laserLbl = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -67,6 +69,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.enemyCar3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tire2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tire3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.laser)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -260,12 +263,33 @@
             this.tire3.TabIndex = 9;
             this.tire3.TabStop = false;
             // 
+            // laser
+            // 
+            this.laser.Image = ((System.Drawing.Image)(resources.GetObject("laser.Image")));
+            this.laser.Location = new System.Drawing.Point(90, 458);
+            this.laser.Name = "laser";
+            this.laser.Size = new System.Drawing.Size(11, 27);
+            this.laser.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.laser.TabIndex = 10;
+            this.laser.TabStop = false;
+            // 
+            // laserLbl
+            // 
+            this.laserLbl.AutoSize = true;
+            this.laserLbl.Location = new System.Drawing.Point(288, 21);
+            this.laserLbl.Name = "laserLbl";
+            this.laserLbl.Size = new System.Drawing.Size(36, 13);
+            this.laserLbl.TabIndex = 11;
+            this.laserLbl.Text = "power";
+            // 
             // road
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
             this.ClientSize = new System.Drawing.Size(384, 761);
+            this.Controls.Add(this.laserLbl);
+            this.Controls.Add(this.laser);
             this.Controls.Add(this.tire3);
             this.Controls.Add(this.tire2);
             this.Controls.Add(this.enemyCar3);
@@ -305,6 +329,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.enemyCar3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tire2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tire3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.laser)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -332,6 +357,8 @@
         private System.Windows.Forms.PictureBox enemyCar3;
         private System.Windows.Forms.PictureBox tire2;
         private System.Windows.Forms.PictureBox tire3;
+        private System.Windows.Forms.PictureBox laser;
+        private System.Windows.Forms.Label laserLbl;
     }
 }
 

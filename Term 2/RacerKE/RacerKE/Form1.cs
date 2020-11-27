@@ -10,12 +10,14 @@ namespace RacerKE
         int speed = 0;
         Random random = new Random();
         int score = 0;
-
+        int laserPow = 0;
+        
         public road()
         {
             InitializeComponent();
             //Make gameOverLbl not visible and initialize score
             gameOverLbl.Visible = false;
+            laser.Visible = false;
             score = 0;
         }
 
@@ -53,6 +55,13 @@ namespace RacerKE
             collectable1(speed);
             collectable2(speed);
             collectable3(speed);
+            
+            //Only move the laser if it is on screen
+            if (laser.Visible == true)
+            {
+                moveLaser();
+            }
+
             gameOver();
         }
 
@@ -127,6 +136,8 @@ namespace RacerKE
                 int x = random.Next(25, 330);
                 int y = random.Next(-100, 0);
                 tire1.Location = new Point(x, y);
+                laserPow += 1;
+                laserLbl.Text = laserPow.ToString();
             }
         }
 
@@ -154,6 +165,8 @@ namespace RacerKE
                 int x = random.Next(25, 330);
                 int y = random.Next(-100, 0);
                 tire2.Location = new Point(x, y);
+                laserPow += 1;
+                laserLbl.Text = laserPow.ToString();
             }
         }
 
@@ -181,6 +194,50 @@ namespace RacerKE
                 int x = random.Next(25, 330);
                 int y = random.Next(-100, 0);
                 tire3.Location = new Point(x, y);
+                laserPow += 1;
+                laserLbl.Text = laserPow.ToString();
+            }
+        }
+
+        //Make the laser visible and put it above the player's car
+        public void shoot()
+        {
+            laser.Visible = true;
+            laser.Location = new Point(playerCar.Location.X + 17, playerCar.Location.Y - 33);
+            laserPow -= 3;
+        }
+
+        public void moveLaser()
+        {
+            //Move the laser up the screen and check for collisions with enemies
+            laser.Top -= 5;
+            if (laser.Bounds.IntersectsWith(enemyCar1.Bounds))
+            {
+                laser.Visible = false;
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                enemyCar1.Location = new Point(x, y);
+            }
+            
+            if (laser.Bounds.IntersectsWith(enemyCar2.Bounds))
+            {
+                laser.Visible = false;
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                enemyCar2.Location = new Point(x, y);
+            }
+
+            if (laser.Bounds.IntersectsWith(enemyCar3.Bounds))
+            {
+                laser.Visible = false;
+                int x = random.Next(25, 275);
+                int y = random.Next(-100, 0);
+                enemyCar3.Location = new Point(x, y);
+            }
+
+            if (laser.Top <= -30)
+            {
+                laser.Visible = false;
             }
         }
 
@@ -303,6 +360,18 @@ namespace RacerKE
                     if (speed == 1)
                     {
                         speed = 0;
+                    }
+                }
+            }
+
+            //Only allow shooting if the game over label is not visible and if laserPow is greater than or equal to 3
+            if (e.KeyCode == Keys.Space)
+            {
+                if (gameOverLbl.Visible != true)
+                {
+                    if (laserPow >= 3)
+                    {
+                        shoot();
                     }
                 }
             }
