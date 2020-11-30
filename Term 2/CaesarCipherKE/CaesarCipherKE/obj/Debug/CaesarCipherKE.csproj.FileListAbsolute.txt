@@ -1,0 +1,10 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\bin\Debug\CaesarCipherKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\bin\Debug\CaesarCipherKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\bin\Debug\CaesarCipherKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\obj\Debug\CaesarCipherKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\obj\Debug\CaesarCipherKE.CaesarCipher.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\obj\Debug\CaesarCipherKE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\obj\Debug\CaesarCipherKE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\obj\Debug\CaesarCipherKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\obj\Debug\CaesarCipherKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CaesarCipherKE\CaesarCipherKE\obj\Debug\CaesarCipherKE.pdb

@@ -1,0 +1,10 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\obj\Debug\FindBirthdayKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\obj\Debug\FindBirthdayKE.Form1.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\obj\Debug\FindBirthdayKE.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\obj\Debug\FindBirthdayKE.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\obj\Debug\FindBirthdayKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\bin\Debug\FindBirthdayKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\bin\Debug\FindBirthdayKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\bin\Debug\FindBirthdayKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\obj\Debug\FindBirthdayKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\FindBirthdayKE\FindBirthdayKE\obj\Debug\FindBirthdayKE.pdb
