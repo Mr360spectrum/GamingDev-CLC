@@ -1,0 +1,7 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\DaisyChainKE\DaisyChainKE\bin\Debug\DaisyChainKE.exe.config
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\DaisyChainKE\DaisyChainKE\bin\Debug\DaisyChainKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\DaisyChainKE\DaisyChainKE\bin\Debug\DaisyChainKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\DaisyChainKE\DaisyChainKE\obj\Debug\DaisyChainKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\DaisyChainKE\DaisyChainKE\obj\Debug\DaisyChainKE.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\DaisyChainKE\DaisyChainKE\obj\Debug\DaisyChainKE.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\DaisyChainKE\DaisyChainKE\obj\Debug\DaisyChainKE.pdb
