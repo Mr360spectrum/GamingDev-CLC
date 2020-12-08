@@ -76,5 +76,18 @@ namespace TodoListKE
             todoList.Remove(removeItem);
             DisplayList();
         }
+
+        private void AddAfterButton_Click(object sender, EventArgs e)
+        {
+            if (todoList.Find(ToDoListBox.Text) == null)
+            {
+                MessageBox.Show("Please select an item in the list box.");
+            }
+            else
+            {
+                todoList.AddAfter(todoList.Find(ToDoListBox.Text), ItemTextBox.Text);
+                DisplayList();
+            }
+        }
     }
 }

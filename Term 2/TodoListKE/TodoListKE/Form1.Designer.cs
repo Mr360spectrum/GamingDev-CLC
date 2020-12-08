@@ -36,6 +36,7 @@ namespace TodoListKE
             this.AddBackButton = new System.Windows.Forms.Button();
             this.RemoveButton = new System.Windows.Forms.Button();
             this.ClearButton = new System.Windows.Forms.Button();
+            this.AddAfterButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -85,7 +86,7 @@ namespace TodoListKE
             // 
             // RemoveButton
             // 
-            this.RemoveButton.Location = new System.Drawing.Point(183, 158);
+            this.RemoveButton.Location = new System.Drawing.Point(182, 217);
             this.RemoveButton.Name = "RemoveButton";
             this.RemoveButton.Size = new System.Drawing.Size(75, 23);
             this.RemoveButton.TabIndex = 5;
@@ -103,11 +104,22 @@ namespace TodoListKE
             this.ClearButton.UseVisualStyleBackColor = true;
             this.ClearButton.Click += new System.EventHandler(this.ClearButton_Click);
             // 
+            // AddAfterButton
+            // 
+            this.AddAfterButton.Location = new System.Drawing.Point(183, 157);
+            this.AddAfterButton.Name = "AddAfterButton";
+            this.AddAfterButton.Size = new System.Drawing.Size(75, 23);
+            this.AddAfterButton.TabIndex = 7;
+            this.AddAfterButton.Text = "Add After";
+            this.AddAfterButton.UseVisualStyleBackColor = true;
+            this.AddAfterButton.Click += new System.EventHandler(this.AddAfterButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(290, 252);
+            this.Controls.Add(this.AddAfterButton);
             this.Controls.Add(this.ClearButton);
             this.Controls.Add(this.RemoveButton);
             this.Controls.Add(this.AddBackButton);
@@ -131,6 +143,7 @@ namespace TodoListKE
         private System.Windows.Forms.Button AddBackButton;
         private System.Windows.Forms.Button RemoveButton;
         private System.Windows.Forms.Button ClearButton;
+        private System.Windows.Forms.Button AddAfterButton;
     }
 }
 
