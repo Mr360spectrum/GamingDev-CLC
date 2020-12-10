@@ -1,0 +1,16 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\bin\Debug\net5.0\Example.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\bin\Debug\net5.0\Example.deps.json
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\bin\Debug\net5.0\Example.runtimeconfig.json
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\bin\Debug\net5.0\Example.runtimeconfig.dev.json
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\bin\Debug\net5.0\Example.dll
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\bin\Debug\net5.0\ref\Example.dll
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\bin\Debug\net5.0\Example.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.AssemblyInfoInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.AssemblyInfo.cs
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.dll
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\ref\Example.dll
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Example\obj\Debug\net5.0\Example.genruntimeconfig.cache

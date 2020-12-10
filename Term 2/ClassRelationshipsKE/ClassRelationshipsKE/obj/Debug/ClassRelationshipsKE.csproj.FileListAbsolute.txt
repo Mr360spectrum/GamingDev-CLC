@@ -1,0 +1,2 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\ClassRelationshipsKE\ClassRelationshipsKE\obj\Debug\ClassRelationshipsKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\ClassRelationshipsKE\ClassRelationshipsKE\obj\Debug\ClassRelationshipsKE.csproj.CoreCompileInputs.cache

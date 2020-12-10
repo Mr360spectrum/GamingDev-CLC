@@ -1,0 +1,5 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Chapter13ExKE\obj\Debug\net5.0\Chapter13ExKE.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Chapter13ExKE\obj\Debug\net5.0\Chapter13ExKE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Chapter13ExKE\obj\Debug\net5.0\Chapter13ExKE.AssemblyInfoInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Chapter13ExKE\obj\Debug\net5.0\Chapter13ExKE.AssemblyInfo.cs
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\Chapter13ExKE\obj\Debug\net5.0\Chapter13ExKE.csproj.CoreCompileInputs.cache
