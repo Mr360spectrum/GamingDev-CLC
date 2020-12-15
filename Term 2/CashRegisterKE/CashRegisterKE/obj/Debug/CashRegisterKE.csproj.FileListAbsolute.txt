@@ -4,3 +4,4 @@ C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CashRegisterKE\Cas
 C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CashRegisterKE\CashRegisterKE\obj\Debug\CashRegisterKE.csproj.CoreCompileInputs.cache
 C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CashRegisterKE\CashRegisterKE\obj\Debug\CashRegisterKE.exe
 C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CashRegisterKE\CashRegisterKE\obj\Debug\CashRegisterKE.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\CashRegisterKE\CashRegisterKE\obj\Debug\CashRegisterKE.csprojAssemblyReference.cache
