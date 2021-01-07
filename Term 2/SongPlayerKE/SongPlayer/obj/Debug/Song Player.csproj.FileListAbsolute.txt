@@ -1,0 +1,9 @@
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\bin\Debug\SongPlayer.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\bin\Debug\SongPlayer.pdb
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\obj\Debug\Song Player.csprojAssemblyReference.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\obj\Debug\SongPlayer.SongPlayerForm.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\obj\Debug\Song_Player.Properties.Resources.resources
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\obj\Debug\Song Player.csproj.GenerateResource.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\obj\Debug\Song Player.csproj.CoreCompileInputs.cache
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\obj\Debug\SongPlayer.exe
+C:\Users\mr360\Documents\Programming\CLC\GamingDev-CLC\Term 2\SongPlayerKE\SongPlayer\obj\Debug\SongPlayer.pdb
