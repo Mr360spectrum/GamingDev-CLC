@@ -214,6 +214,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1069593241}
   - component: {fileID: 1069593240}
+  - component: {fileID: 1069593242}
   m_Layer: 0
   m_Name: bird1K1
   m_TagString: Untagged
@@ -285,6 +286,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -0.02, y: -0.54, z: 37.38}
+--- !u!114 &1069593242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069593239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e17655c60eed8a42b5ca1f0d6980031, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1171719507
 GameObject:
   m_ObjectHideFlags: 0
@@ -295,6 +308,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1171719509}
   - component: {fileID: 1171719508}
+  - component: {fileID: 1171719510}
   m_Layer: 0
   m_Name: longBird
   m_TagString: Untagged
@@ -366,6 +380,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1171719510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171719507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e17655c60eed8a42b5ca1f0d6980031, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1267521378
 GameObject:
   m_ObjectHideFlags: 0
@@ -376,6 +402,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1267521380}
   - component: {fileID: 1267521379}
+  - component: {fileID: 1267521381}
   m_Layer: 0
   m_Name: bird1K2
   m_TagString: Untagged
@@ -447,6 +474,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: -0.02, y: -0.54, z: -44.4}
+--- !u!114 &1267521381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1267521378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e17655c60eed8a42b5ca1f0d6980031, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1603323173
 GameObject:
   m_ObjectHideFlags: 0
@@ -457,6 +496,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1603323175}
   - component: {fileID: 1603323174}
+  - component: {fileID: 1603323176}
   m_Layer: 0
   m_Name: whiteBird
   m_TagString: Untagged
@@ -528,6 +568,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 124.97}
+--- !u!114 &1603323176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603323173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e17655c60eed8a42b5ca1f0d6980031, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1838598883
 GameObject:
   m_ObjectHideFlags: 0
@@ -538,6 +590,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1838598885}
   - component: {fileID: 1838598884}
+  - component: {fileID: 1838598886}
   m_Layer: 0
   m_Name: bird2K
   m_TagString: Untagged
@@ -609,3 +662,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 179.3}
+--- !u!114 &1838598886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1838598883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e17655c60eed8a42b5ca1f0d6980031, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
