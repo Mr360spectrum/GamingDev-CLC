@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+Karter Ence
+Alien Dance Squad
+Chapter 4 Activity
+2/1/2021
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
