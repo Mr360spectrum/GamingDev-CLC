@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{c7e005bb-2153-1160-46f5-f08ddb27510c}</ProjectGuid>
+    <ProjectGuid>{e6d963a2-ac25-ca0e-2dc0-05362f9ef421}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -222,13 +222,13 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -576,55 +576,55 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Monetization">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements.Editor">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/Pinball/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/Users/mr360/Documents/Programming/CLC/GamingDev-CLC/Term 3/PinballKE/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

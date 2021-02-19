@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+Karter Ence
+Pinball - PaddleScript
+2/18/2021
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
