@@ -47,7 +47,8 @@ namespace TodoListKE
             //If there is text in the text box, add it to the front of todoList
             if (ItemTextBox.Text != "")
             {
-                todoList.AddFirst(ItemTextBox.Text);
+                float result = 3 / 2;
+                todoList.AddFirst(result.ToString());
                 DisplayList();
             }
         }
@@ -88,6 +89,12 @@ namespace TodoListKE
                 todoList.AddAfter(todoList.Find(ToDoListBox.Text), ItemTextBox.Text);
                 DisplayList();
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            float result = 3 / 2;
+            Console.WriteLine(result);
         }
     }
 }
